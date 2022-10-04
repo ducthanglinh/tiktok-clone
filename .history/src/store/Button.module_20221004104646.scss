@@ -1,0 +1,11 @@
+.btn {
+  font-size: 30px;
+
+  :hover {
+    cursor: pointer;
+    background-color: gray;
+  }
+}
+.active {
+  background-color: orange;
+}
